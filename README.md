@@ -9,43 +9,18 @@ District wide there are 15 schools serving a total of 39,170 students with a tot
 After completeing the initial analysis we can conclude that charter shools have better testing outcomes than district schools regardless of their smaller per student spending.
 Information to support this conclusion follows:
 
-Top 5 Schools									
-	School Type	Total Students	Total School Budget	Per Student Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-Cabrera High School	Charter	1,858	$1,081,356.00	$582.00	83.1	84.0	94%	97%	91%
-Griffin High School	Charter	1,468	$917,500.00	$625.00	83.4	83.8	93%	97%	91%
-Pena High School	Charter	962	$585,858.00	$609.00	83.8	84.0	95%	96%	91%
-Thomas High School	Charter	1,635	$1,043,130.00	$638.00	83.4	83.8	93%	97%	91%
-Wilson High School	Charter	2,283	$1,319,574.00	$578.00	83.3	84.0	94%	97%	91%
+
 ![image](https://user-images.githubusercontent.com/86027932/125873776-69f30e68-3fc8-4616-a72a-a0982a282aa3.png)
 
-Bottom Five Schools									
-	School Type	Total Students	Total School Budget	Per Student Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-Figueroa High School	District	2,949	$1,884,411.00	$639.00	76.7	81.2	66%	81%	53%
-Rodriguez High School	District	3,999	$2,547,363.00	$637.00	76.8	80.7	66%	80%	53%
-Ford High School	District	2,739	$1,763,916.00	$644.00	77.1	80.7	68%	79%	54%
-Hernandez High School	District	4,635	$3,022,020.00	$652.00	77.3	80.9	67%	81%	54%
-Huang High School	District	2,917	$1,910,635.00	$655.00	76.6	81.2	66%	81%	54%
+
 ![image](https://user-images.githubusercontent.com/86027932/125873889-c0b58a62-d769-4629-8aa0-f7b2c4a277a6.png)
 
-School Type Summary					
-School Type	Average Math Scores	Average Reading Scores	% Passing Math	% Passing Reading	% Overall Passing
-Charter	83.5	83.9	94%	97%	90%
-District	77.0	81.0	67%	81%	54%
 ![image](https://user-images.githubusercontent.com/86027932/125874061-d7747ad6-92fe-4c72-945d-0244ec76ad9f.png)
 
-Outcomes by Spending per Student					
-Spending Ranges (Per Student)	Average Math Scores	Average Reading Scores	% Passing Math	% Passing Reading	% Overall Passing
-<$584	83.5	83.9	93%	97%	90%
-$585-629	81.9	83.2	87%	93%	81%
-$630-644	78.5	81.6	73%	84%	63%
-$645-675	77.0	81.0	66%	81%	54%
+
 ![image](https://user-images.githubusercontent.com/86027932/125874182-99f946ec-164c-43dc-a53f-70df72034ed2.png)
 
-Outcomes by School Size					
-School Size	Average Math Scores	Average Reading Scores	% Passing Math	% Passing Reading	% Overall Passing
-Small (<1000)	83.8	83.9	94%	96%	90%
-Medium (1000-2000)	83.4	83.9	94%	97%	91%
-Large (2000-5000)	77.7	81.3	70%	83%	58%
+
 ![image](https://user-images.githubusercontent.com/86027932/125874268-2827457a-6d93-4b52-a43e-3788da1c8302.png)
 
 ### Updated Outcomes
@@ -55,43 +30,19 @@ The subsequent calculations revealed that the manipulated test scores didn't mak
 
 The updated calculations:
 
-Top Five Schools									
-	School Type	Total Students	Total School Budget	Per Student Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-Cabrera High School	Charter	1858	$1,081,356.00	$582.00	83.1	84.0	94	97	91
-Thomas High School	Charter	1635	$1,043,130.00	$638.00	83.4	83.9	93	97	91
-Griffin High School	Charter	1468	$917,500.00	$625.00	83.4	83.8	93	97	91
-Wilson High School	Charter	2283	$1,319,574.00	$578.00	83.3	84.0	94	97	91
-Pena High School	Charter	962	$585,858.00	$609.00	83.8	84.0	95	96	91
+
 ![image](https://user-images.githubusercontent.com/86027932/125874895-9a9cc9fa-76e5-4596-a96f-9393d21594a2.png)
 
-Bottom Five Schools									
-	School Type	Total Students	Total School Budget	Per Student Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-Johnson High School	District	4761	$3,094,650.00	$650.00	77.1	81.0	66	81	54
-Hernandez High School	District	4635	$3,022,020.00	$652.00	77.3	80.9	67	81	54
-Huang High School	District	2917	$1,910,635.00	$655.00	76.6	81.2	66	81	54
-Figueroa High School	District	2949	$1,884,411.00	$639.00	76.7	81.2	66	81	53
-Rodriguez High School	District	3999	$2,547,363.00	$637.00	76.8	80.7	66	80	53
+
 ![image](https://user-images.githubusercontent.com/86027932/125875026-7e009587-911b-432b-a0bc-c124a796702d.png)
 
-School Type Summary					
-School Type	Average Math Scores	Average Reading Scores	% Passing Math	% Passing Reading	% Overall Passing
-Charter	83.5	83.9	94%	97%	90%
-District	77.0	81.0	67%	81%	54%
+
 ![image](https://user-images.githubusercontent.com/86027932/125875126-1918ed5f-7789-4eeb-9a5e-4bf085227c95.png)
 
-Outcomes by Per Student Spending					
-Spending Ranges (Per Student)	Average Math Scores	Average Reading Scores	% Passing Math	% Passing Reading	% Overall Passing
-<$584	83.5	83.9	93	97	90
-$585-629	81.9	83.2	87	93	81
-$630-644	78.5	81.6	73	84	63
-$645-675	77.0	81.0	66	81	54
+
 ![image](https://user-images.githubusercontent.com/86027932/125875260-3ce10763-f166-4d48-b79d-d3b766d6e023.png)
 
-Outcomes by School Size					
-School Size	Average Math Scores	Average Reading Scores	% Passing Math	% Passing Reading	% Overall Passing
-Small (<1000)	83.8	83.9	94	96	90
-Medium (1000-2000)	83.4	83.9	94	97	91
-Large (2000-5000)	77.7	81.3	70	83	58
+
 ![image](https://user-images.githubusercontent.com/86027932/125875374-8fe36c10-5246-4a04-aa9c-570ac01c2794.png)
 
 ### Summary of Changes
