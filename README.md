@@ -47,20 +47,20 @@ The updated calculations:
 
 ### Summary of Changes
 Removing the math & reading scores from ninth graders at Thomas High School:
-District Summary: no changes district wide
-School Summary: 
-•	Average Math Score ecreased by .07 points.
-•	Average Reading Score decreased by .09 points.
-•	% Students passing Math decreased by .08%.
-•	% Students passing Reading decreased by .29%.
-•	% Overall passing decreased by .32%.
+* District Summary: no changes district wide
+* School Summary: 
+    * Average Math Score ecreased by .07 points.
+    * Average Reading Score decreased by .09 points.
+    * % Students passing Math decreased by .08%.
+    * % Students passing Reading decreased by .29%.
+    * % Overall passing decreased by .32%.
 
-Scores by Grade:
-	Math: mean 9th grade math score for the district decreased by .25 points.
-	Reading: mean 9th grade reading score for the district decreased by .09 points.
-Scores by School Spending: Thomas High School spends $638/student, which puts them in the 2nd highest spending “bucket” per/student in the district. There was no impact on spending per student outcomes.
-Scores by School Size: Thomas High School has 1635 students. There was no impact on school size outcomes for Middle Sized schools.
-Scores by School Type: Thomas High School is a Charter School; there was no change in outcomes for Charter Schools.
+* Scores by Grade:
+    * Math: mean 9th grade math score for the district decreased by .25 points.
+    * Reading: mean 9th grade reading score for the district decreased by .09 points.
+* Scores by School Spending: Thomas High School spends $638/student, which puts them in the 2nd highest spending “bucket” per/student in the district. There was no impact on spending per student outcomes.
+* Scores by School Size: Thomas High School has 1635 students. There was no impact on school size outcomes for Middle Sized schools.
+* Scores by School Type: Thomas High School is a Charter School; there was no change in outcomes for Charter Schools.
 
 ### Analysis Summary
 While it was important to remove these grades to maintain the integrity of the analysis, it made litle to now impact on the results of our analysis. Which remains that charter schools have better overall testing outcomes; while school size and spending per student seems to have very little to no impact on test scores.
