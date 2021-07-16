@@ -3,8 +3,7 @@
 After recent state testing, I received the math & reading scores for all high school students in the city and was asked to analyze the test scores.  Using the average math and reading scores and the percentage of passing math, reading, and both math and reading scores I looked at outcomes for each school, per student spending, school size, and school type.
 District wide there are 15 schools serving a total of 39,170 students with a total annual budget of $24,649,428.00. There are 7 district schools and 8 charter schools:
 
-Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-15	39,170	$24,649,428.00	79.0	81.9	75%	86%	65%
+
 ![image](https://user-images.githubusercontent.com/86027932/125873439-fc4edbd6-6635-470e-b4c5-64b6fa247973.png)
 
 After completeing the initial analysis we can conclude that charter shools have better testing outcomes than district schools regardless of their smaller per student spending.
